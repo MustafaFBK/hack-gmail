@@ -10,7 +10,7 @@ def artwork():
     print("#           /\  /\   / (__,,,,|                          #")
     print("#          ) /^\) ^\/ _)                Gmail-hack!      #")
     print("#          )   /^\/   _)                CoDeD By:        #")
-    print("#          )   _ /  / _)                        d4az     #")
+    print("#          )   _ /  / _)                      MustafaFBK #")
     print("#      /\  )/\/ ||  | )_)                                #")
     print("#     <  >      |(,,) )__)                               #")
     print("#      ||      /    \)___)\                              #")
@@ -27,7 +27,7 @@ smtpserver = smtplib.SMTP("smtp.gmail.com", 587)
 smtpserver.ehlo()
 smtpserver.starttls()
 
-user = input("Enter The Target Gmail Adress => ")
+user = input("Enter the Target baby => ")
 
 print("\n")
 
